@@ -7,6 +7,7 @@ class Hermia < Formula
   sha256 "7ad614dff2ff99bc8231e6f6c5ebf7b69c07e04765e86e2e9be0d2a14a052445"
   license "MIT"
 
+  depends_on "libyaml"
   depends_on "python@3.12"
 
   resource "certifi" do
