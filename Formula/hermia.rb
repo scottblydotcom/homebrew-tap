@@ -3,8 +3,8 @@ class Hermia < Formula
 
   desc "Interactive LLM agentic evaluation TUI for local and cloud models"
   homepage "https://github.com/scottblydotcom/hermia"
-  url "https://files.pythonhosted.org/packages/07/3c/4e6924e809e7ab5c8d8a4a0976da8c351b44fddcc62c8b4141147b1bb5cf/hermia-0.1.3.tar.gz"
-  sha256 "7ad614dff2ff99bc8231e6f6c5ebf7b69c07e04765e86e2e9be0d2a14a052445"
+  url "https://files.pythonhosted.org/packages/90/7e/b22b70658d94df4ff9148ffa1f4ab4cbb76c173acd54bee481cf75470614/hermia-0.2.0.tar.gz"
+  sha256 "d3f52c3d42627381228fedc0c9844adcdf8a77f2a9cb39c74e145ab6dcf590c6"
   license "MIT"
 
   depends_on "libyaml"
